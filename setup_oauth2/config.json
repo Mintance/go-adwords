@@ -1,0 +1,25 @@
+{
+    "oauth2.Config": {
+        "ClientID": "694802408584-3srbdm35eg4q8p6bj4jq3hk5r7chvrug.apps.googleusercontent.com",
+        "ClientSecret": "Mg9-PU2JwTAuKqXYJzT75_8r",
+        "Endpoint": {
+            "AuthURL": "https://accounts.google.com/o/oauth2/auth",
+            "TokenURL": "https://accounts.google.com/o/oauth2/token"
+        },
+        "RedirectURL": "http://mintance.dev/api/v1/adverts/redirect",
+        "Scopes": [
+            "https://adwords.google.com/api/adwords"
+        ]
+    },
+    "oauth2.Token": {
+        "access_token": "ya29.Ci-uA_EVDPm7bJGPpCQimJRmqs-0jDrwQn6VS5JaAKgiUldW-NbGYznaBinJK5vIHw",
+        "token_type": "Bearer",
+        "refresh_token": "1/bwb4OV6gANkzOHcQLp0d6PyDSp4o15QHU9N8cbUhTxs",
+        "expiry": "2016-12-08T14:17:53.050019251+02:00"
+    },
+    "gads.Auth": {
+        "CustomerId": "4040290618",
+        "DeveloperToken": "T01QWn4IsSqWu08YsJ5m5Q",
+        "UserAgent": "crm2.excrm.dev:adwords google:v201609"
+    }
+}
